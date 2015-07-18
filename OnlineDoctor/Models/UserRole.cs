@@ -10,5 +10,6 @@ namespace OnlineDoctor.Models
         public int UserRoleId { get; set; }
         public ApplicationUser User { get; set; }
         public Role Role { get; set; }
+        public bool IsActive { get; set; }
     }
 }
