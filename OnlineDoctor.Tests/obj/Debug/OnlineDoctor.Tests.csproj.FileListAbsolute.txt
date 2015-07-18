@@ -1,0 +1,88 @@
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.dll.config
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.pdb
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.pdb
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.dll.config
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.Tests.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Helpers.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Mvc.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Razor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Optimization.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\EntityFramework.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\OnlineDoctor.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Helpers.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Mvc.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Razor.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\System.Web.Optimization.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\EntityFramework.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.csprojResolveAssemblyReference.cache
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor.Tests\obj\Debug\OnlineDoctor.Tests.pdb

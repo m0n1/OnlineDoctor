@@ -1,0 +1,110 @@
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.dll.config
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.pdb
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Antlr3.Runtime.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Google.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Owin.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Optimization.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Deployment.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\WebGrease.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Optimization.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Deployment.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Antlr3.Runtime.pdb
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Google.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.dll
+c:\users\student\documents\visual studio 2013\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.dll.config
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\OnlineDoctor.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Antlr3.Runtime.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.SqlServer.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Google.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Web.Infrastructure.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Newtonsoft.Json.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Owin.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Helpers.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Mvc.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Optimization.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Razor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Deployment.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Razor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\WebGrease.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Helpers.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Mvc.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Optimization.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.Razor.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Deployment.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\System.Web.WebPages.Razor.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Newtonsoft.Json.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Antlr3.Runtime.pdb
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\EntityFramework.SqlServer.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Google.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.csprojResolveAssemblyReference.cache
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.dll
+D:\LEADS\Projects\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.pdb
