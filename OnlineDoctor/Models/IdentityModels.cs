@@ -10,7 +10,7 @@ namespace OnlineDoctor.Models
         public string LastName { get; set; }
         public string FathersName { get; set; }
         public string MothersName { get; set; }
-        public DateTime BirthDay { get; set; }
+        public DateTime DateOfBirth { get; set; }
         public int NationalIdNo { get; set; }
         public int Age { get; set; }
         public string Address { get; set; }

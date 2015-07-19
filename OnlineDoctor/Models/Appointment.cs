@@ -8,7 +8,7 @@ namespace OnlineDoctor.Models
         public int SerialNo { get; set; }
         public virtual Patient Patient { get; set; }
         public virtual Doctor Doctor { get; set; }
-        public virtual Chamber Chamber { get; set; }
+        public virtual ServiceCenter ServiceCenter { get; set; }
         public DateTime Date { get; set; }
         public DateTime TimeFrom { get; set; }
         public DateTime TimeTo { get; set; }

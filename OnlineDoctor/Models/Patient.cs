@@ -11,5 +11,6 @@ namespace OnlineDoctor.Models
         public string PatientName { get; set; }
         public DateTime CreateDate { get; set; }
         public bool IsActive { get; set; }
+        public virtual ICollection<Appointment> Appointments { get; set; }
     }
 }

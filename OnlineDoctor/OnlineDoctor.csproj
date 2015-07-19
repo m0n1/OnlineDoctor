@@ -159,7 +159,10 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AppointmentController.cs" />
+    <Compile Include="Controllers\DoctorController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PatientController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -170,8 +173,12 @@
     <Compile Include="Models\ChamberTimeTable.cs" />
     <Compile Include="Models\City.cs" />
     <Compile Include="Models\Country.cs" />
+    <Compile Include="Models\DoctorRank.cs" />
     <Compile Include="Models\DoctorSpecialization.cs" />
     <Compile Include="Models\Gender.cs" />
+    <Compile Include="Models\Prescription.cs" />
+    <Compile Include="Models\Qualification.cs" />
+    <Compile Include="Models\Schedule.cs" />
     <Compile Include="Models\Specialization.cs" />
     <Compile Include="Models\Doctor.cs" />
     <Compile Include="Models\Hospital.cs" />
@@ -231,6 +238,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Appointment\" />
+    <Folder Include="Views\Doctor\" />
+    <Folder Include="Views\Patient\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
