@@ -171,6 +171,7 @@
     <Compile Include="Models\City.cs" />
     <Compile Include="Models\Country.cs" />
     <Compile Include="Models\DoctorSpecialization.cs" />
+    <Compile Include="Models\Gender.cs" />
     <Compile Include="Models\Specialization.cs" />
     <Compile Include="Models\Doctor.cs" />
     <Compile Include="Models\Hospital.cs" />
@@ -189,6 +190,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="ClassDiagram1.cd" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

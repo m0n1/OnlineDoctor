@@ -15,7 +15,7 @@ namespace OnlineDoctor.Models
         public int Age { get; set; }
         public string Address { get; set; }
         public virtual Area Area { get; set; }
-        public bool Gender { get; set; }
+        public Gender Gender { get; set; }
         public string Occupation { get; set; }
         public int CityId { get; set; }
         public string Email { get; set; }

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineDoctor.Models.ExternalLoginConfirmationViewModel" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.ManageUserViewModel" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.LoginViewModel" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAgAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.RegisterViewModel" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Appointment" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAARAAAAAAAQAAAAAAIAAAAAAAAAQAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Area" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>Models\Area.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Chamber" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAGAAAAAAAA=</HashCode>
+      <FileName>Models\Chamber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.ChamberTimeTable" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAQAAAAAAAAAAAAIAAiAAQAAACAAAAAAAA=</HashCode>
+      <FileName>Models\ChamberTimeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.City" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Country" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Doctor" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAAAAAAAAAAAAAAAAAQAACQAAEAAAAACAAAEA=</HashCode>
+      <FileName>Models\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.DoctorSpecialization" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAAEA=</HashCode>
+      <FileName>Models\DoctorSpecialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Hospital" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.ApplicationUser" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABACAAAACAEEAAAAAAAAAIAAACAQAAgQBQAAo=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.ApplicationDbContext" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Patient" Collapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.ServiceCenter" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAAAAAAAAAAAAEAACAAAAgQAAAAA=</HashCode>
+      <FileName>Models\ServiceCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineDoctor.Models.Specialization" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAA=</HashCode>
+      <FileName>Models\Specialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
