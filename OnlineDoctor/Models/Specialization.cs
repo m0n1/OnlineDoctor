@@ -5,10 +5,10 @@ using System.Text;
 
 namespace OnlineDoctor.Models
 {
-    public class Department
+    public class Specialization
     {
-        public int DepartmentId { get; set; }
-        public string DepartmentName { get; set; }
+        public int SpecializationId { get; set; }
+        public string SpecializationName { get; set; }
         public virtual Hospital Hospital { get; set; }
         public virtual ICollection<Doctor> Doctors { get; set; }
 
