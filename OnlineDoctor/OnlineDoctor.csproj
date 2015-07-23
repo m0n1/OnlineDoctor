@@ -176,6 +176,7 @@
     <Compile Include="Models\DoctorRank.cs" />
     <Compile Include="Models\DoctorSpecialization.cs" />
     <Compile Include="Models\Gender.cs" />
+    <Compile Include="Models\OnlineDoctorContext.cs" />
     <Compile Include="Models\Prescription.cs" />
     <Compile Include="Models\Qualification.cs" />
     <Compile Include="Models\Schedule.cs" />
