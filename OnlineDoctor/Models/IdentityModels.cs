@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
 using System;
+using OnlineDoctor.Models.EnumHelper;
 
 namespace OnlineDoctor.Models
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace OnlineDoctor.Controllers
+namespace OnlineDoctor.Areas.Doctor.Controllers
 {
     public class DoctorController : Controller
     {
@@ -93,6 +93,38 @@ namespace OnlineDoctor.Controllers
                 return View();
             }
         }
+        public ActionResult SearchDoctorByName()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorByArea()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorByChamber()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorByHospital()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorBySpecialization()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorByPopularity()
+        {
+            return View();
+        }
+        public ActionResult SearchDoctorByAvailability()
+        {
+            return View();
+        }
+        public ActionResult ViewDoctorsProfile()
+        {
+            return View();
+        }
         public ActionResult AddServiceCenter()
         {
             return View();
@@ -110,6 +142,10 @@ namespace OnlineDoctor.Controllers
             return View();
         }
         public ActionResult ViewAppointmentDetails()
+        {
+            return View();
+        }
+        public ActionResult RankDoctor()
         {
             return View();
         }

@@ -98,34 +98,7 @@ namespace OnlineDoctor.Controllers
         {
             return View();
         }
-        public ActionResult SearchDoctorByName()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorByArea()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorByChamber()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorByHospital()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorBySpecialization()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorByPopularity()
-        {
-            return View();
-        }
-        public ActionResult SearchDoctorByAvailability()
-        {
-            return View();
-        }
+        
         public ActionResult CreateAppointment()
         {
             return View();
@@ -142,17 +115,8 @@ namespace OnlineDoctor.Controllers
         {
             return View();
         }
-        public ActionResult RankDoctor()
-        {
-            return View();
-        }
-        public ActionResult ViewAppointmentDetails()
-        {
-            return View();
-        }
-        public ActionResult ViewDoctorsProfile()
-        {
-            return View();
-        }
+        
+        
+        
     }
 }

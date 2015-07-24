@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace OnlineDoctor.Models
+namespace OnlineDoctor.Models.EnumHelper
 {
     public enum Gender
     {

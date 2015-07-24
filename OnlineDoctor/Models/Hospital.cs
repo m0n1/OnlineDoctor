@@ -8,6 +8,6 @@ namespace OnlineDoctor.Models
     public class Hospital : ServiceCenter
     {
         public int HospitalId { get; set; }
-        public string HospitatName { get; set; }
+        public string HospitalName { get; set; }
     }
 }
