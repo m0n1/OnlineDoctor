@@ -149,5 +149,6 @@ namespace OnlineDoctor.Areas.Doctor.Controllers
         {
             return View();
         }
+
     }
 }

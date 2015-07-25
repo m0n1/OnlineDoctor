@@ -115,7 +115,10 @@ namespace OnlineDoctor.Controllers
         {
             return View();
         }
-        
+        public ActionResult ViewAppointmentDetails()
+        {
+            return View();
+        }
         
         
     }
