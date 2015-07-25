@@ -6,7 +6,7 @@ using System.Web;
 
 namespace OnlineDoctor.Models
 {
-    public class ServiceCenter
+    public abstract class ServiceCenter
     {
         public int ServiceCenterId { get; set; }
         public string ServiceCenterName { get; set; }

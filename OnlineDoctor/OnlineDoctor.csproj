@@ -168,6 +168,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201507251354557_AddedContexts.cs" />
+    <Compile Include="Migrations\201507251354557_AddedContexts.Designer.cs">
+      <DependentUpon>201507251354557_AddedContexts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Appointment.cs" />
     <Compile Include="Models\Area.cs" />
@@ -178,7 +183,6 @@
     <Compile Include="Models\DoctorRank.cs" />
     <Compile Include="Models\DoctorSpecialization.cs" />
     <Compile Include="Models\Gender.cs" />
-    <Compile Include="Models\OnlineDoctorContext.cs" />
     <Compile Include="Models\Prescription.cs" />
     <Compile Include="Models\Qualification.cs" />
     <Compile Include="Models\Schedule.cs" />
@@ -257,6 +261,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201507251354557_AddedContexts.resx">
+      <DependentUpon>201507251354557_AddedContexts.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

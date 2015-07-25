@@ -218,3 +218,5 @@ D:\Leads\OnlineDoctor\OnlineDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.
 D:\Leads\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.csprojResolveAssemblyReference.cache
 D:\Leads\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.dll
 D:\Leads\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.pdb
+D:\Working\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.Migrations.AddedContexts.resources
+D:\Working\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.csproj.GenerateResource.Cache
