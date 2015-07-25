@@ -220,3 +220,5 @@ D:\Leads\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.dll
 D:\Leads\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.pdb
 D:\Working\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.Migrations.AddedContexts.resources
 D:\Working\OnlineDoctor\OnlineDoctor\obj\Debug\OnlineDoctor.csproj.GenerateResource.Cache
+D:\Working\OnlineDoctor\OnlineDoctor\bin\SendGrid.SmtpApi.dll
+D:\Working\OnlineDoctor\OnlineDoctor\bin\SendGridMail.dll
